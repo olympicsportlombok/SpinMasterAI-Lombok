@@ -1,0 +1,5 @@
+{
+  "name": "SpinMaster Blade Analyzer",
+  "description": "AI-powered Table Tennis blade recommendation engine based on player style and technique.",
+  "requestFramePermissions": []
+}
